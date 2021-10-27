@@ -1,6 +1,13 @@
-const person = require("./person");
+const Person = require("./person");
 
-console.log(person);
+
+const person1 = new Person('Marcella Wilroy', 24);
+person1.greeting()
+
+
+// const person = require("./person");
+// console.log(person);
+// console.log(person.name)
 
 // console.log("Hello from node.js");
 // run:
