@@ -1,0 +1,26 @@
+{
+  "name": "new_dir",
+  "version": "1.0.0",
+  "description": "testing git and typescript and katas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnlbellfield/bigTest.git"
+  },
+  "author": "Daniel Bellfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnlbellfield/bigTest/issues"
+  },
+  "homepage": "https://github.com/dnlbellfield/bigTest#readme",
+  "dependencies": {
+    "typescript": "^4.4.4",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
